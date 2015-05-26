@@ -18,13 +18,14 @@ GR-TN-wieczór
    4. Sebastian Jakubik 192082 , Michał Cieśla 204005 -> Kółko i krzyżyk  
    5. Wojciech Lalik 204010, Łukasz Kuyk 203998 (Grupa TN rano) - Gadu-Gadu
    6. Łukasz Duda 201083, Mateusz Dydyna 203994 (Grupa TN rano) - Serwer firmy z baza danych SQL
+   7. Aleksandra Helon, Daniel Wencel 204036 (Grupa TP rano) - Baza Danych (Ksiazka Adresowa & Rozklad Jazdy Autobusow. -
+   trudno stwierdzić do czego dojdziemy)
 GR-TP-rano
    1.Przemyslaw Rogoz 204047} sterownik UDP
    2.Pawel Pokryszka 204013} 
    3.Alicja Barzańska 204020-co w stylu projektu A
    4.Barbara Gorczyca 204002 - coś w stylu projektu A
-   5.Daniel Wencel 204036 - wstępnie coś w stylu projektu A 
-   6.Joanna Furs 204023- cos w stylu projektu A
+   5.Joanna Furs 204023- cos w stylu projektu A
 
 GR-TP-wieczór
    1. Rafał Mazerant 186935 + Piotr Małecki-Jurek 183381 Projekt A
